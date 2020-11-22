@@ -7,9 +7,9 @@ The purpose of the analysis is analyze temperature trends before opening the sur
 ## Results
 
 Results for June:
-![1](https://github.com/pimchanyachitsanga/surfs_up/June_Temps.png)
+![June_Temps](June_Temps.png)
 
-Results for Dec:
+Results for December:
 ![2](https://github.com/pimchanyachitsanga/surfs_up/Dec_Temps.png)
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
